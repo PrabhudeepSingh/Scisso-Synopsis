@@ -1,0 +1,9 @@
+\contentsline {chapter}{\textit {Abstract}}{i}{dummy.2}
+\contentsline {chapter}{\textit {List of Abbreviations}}{ii}{dummy.4}
+\contentsline {chapter}{\numberline {1}Introduction to Project}{1}{chapter.7}
+\contentsline {section}{\numberline {1.1}Overview}{1}{section.8}
+\contentsline {section}{\numberline {1.2}Existing System}{3}{section.9}
+\contentsline {chapter}{\numberline {2}Feasibility Study}{4}{chapter.10}
+\contentsline {chapter}{\numberline {3}Objectives of the Project }{6}{chapter.16}
+\contentsline {chapter}{\numberline {4}Assumptions and Dependencies}{7}{chapter.17}
+\contentsline {chapter}{\numberline {5}Specific Requirements}{8}{chapter.18}
